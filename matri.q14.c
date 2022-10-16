@@ -74,7 +74,7 @@ int main()
   printf("entrada de dados da matriz  2 :\n");
   inputmatriz(m2);
   for(int i = 0; i < 3; i++){//roda as opçoes
-  printf("opção 1-soma: \nopção 2-subtração: \nopção 3- multipica");
+  printf("opção 1-soma: \nopção 2-subtração: \nopção 3- multiplica");
   scanf("%d", &op);
   switch (op)
   {
